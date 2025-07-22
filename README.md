@@ -1,6 +1,6 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d2c9658-e25e-4dd6-9c56-932447f29482/ddio625-88c6c961-13c1-43ee-a08f-3c3ceeb7f053.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkMmM5NjU4LWUyNWUtNGRkNi05YzU2LTkzMjQ0N2YyOTQ4MlwvZGRpbzYyNS04OGM2Yzk2MS0xM2MxLTQzZWUtYTA4Zi0zYzNjZWViN2YwNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1Shjpe-XOI7ativXu5UeoPDRzJkK_mAkgdJdHTEVSQM)
 <h1 align="center">Hello there, I'm Harshavardhan</h1>
-<h3 align="center">A passionate and curious developer from India</h3>
+<h3 align="center">A passionate and curious developer from Hyderabad</h3>
 
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/90c0e5_b0f86386f2bf4109a1afc0c0c855bcd1~mv2.gif">
 
@@ -8,17 +8,16 @@
 
 <p align="left"> <a href="https://twitter.com/lucifer007yt" target="blank"><img src="https://img.shields.io/twitter/follow/lucifer007yt?logo=twitter&style=for-the-badge" alt="lucifer007yt" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C++, Data Structures, Machine Learning, Flutter**
+- 🌱 I’m currently learning **Python, DSA, ML, DL, AI, Web3**
 
-- 💬 Ask me about **Machine Learning, Web3, PC Hardware**
+- 💬 Ask me about **AI/ML, Cloud, Web3**
 
 - 📫 How to reach me **challa.harshavardhan16@gmail.com**
 
-- ⚡ Fun fact **I'm a competitive gamer**
+- ⚡ Fun fact **I'm a PC Hardware Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lucifer007yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucifer007yt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/igharsha7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igharsha7" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_harsha_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_harsha_7" height="30" width="40" /></a>
 </p>
