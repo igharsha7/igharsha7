@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igharsha7&label=Profile%20views&color=0e75b6&style=flat" alt="igharsha7" /> </p>
 
-<p align="left"> <a href="https://x.com/igharsha7" target="blank"><img src="https://img.shields.io/twitter/follow/lucifer007yt?logo=twitter&style=for-the-badge" alt="soloML" /></a> </p>
+<p align="left"> <a href="https://x.com/igharsha7" target="blank"><img src="https://img.shields.io/twitter/follow/igharsha7?logo=twitter&style=for-the-badge" alt="soloML" /></a> </p>
 
 - 🌱 I’m currently learning **Python, DSA, ML, DL, AI, Web3**
 
